@@ -3,9 +3,9 @@ week 1 ass. codepath
 
 # Dropbox
 
-Dropbox week 1 assignment for Cameron Stewart's Codepath.
+Dropbox week 1 assignment for lindsey boyden's Codepath.
 
-Time spent: ~3.5 hours spent in total
+Time spent: ~5 hours spent in total
 
 Completed user stories:
 
