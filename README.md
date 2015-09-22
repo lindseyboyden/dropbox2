@@ -27,4 +27,5 @@ i dont have access to github.
 
 Walkthrough of all user stories:
 
-![lindseys_dropbox](https://cloud.githubusercontent.com/assets/12520520/10010769/f10ab9c2-60a4-11e5-8e3d-2e1843ff2d08.gi...)
+
+![dropbox1](https://cloud.githubusercontent.com/assets/14496785/10025972/fd1bc610-6113-11e5-8bdb-83284a021220.gif)
